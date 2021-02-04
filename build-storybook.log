@@ -125,14 +125,36 @@ Error: Cannot find module '/home/tatu/Gitrepot/StorybookReact/learnstorybook-des
     at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
     at startup (internal/bootstrap/node.js:283:19)
     at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
-lding 8/15 modules 7 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-actions/dist/preset/addArgs.js
-<s> [webpack.Progress] 10% building 8/16 modules 8 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-actions/dist/preset/addDecorator.js
-<s> [webpack.Progress] 10% building 8/17 modules 9 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-backgrounds/dist/preset/addDecorator.js
-<s> [webpack.Progress] 10% building 8/18 modules 10 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-backgrounds/dist/preset/addParameter.js
-<s> [webpack.Progress] 10% building 8/19 modules 11 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/common/config.js
-<s> [webpack.Progress] 10% building 8/20 modules 12 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
-<s> [webpack.Progress] 11% building 9/20 modules 11 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
-<s> [webpack.Progress] 11% building 10/20 modules 10 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
+./src/Button.js changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--110657-MzUUcqm0Nj0y
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--110657-MzUUcqm0Nj0y
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module '/home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+./build-storybook.log changed
+
+Starting: build-storybook -- --output-dir /tmp/chromatic--110657-MzUUcqm0Nj0y
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module '/home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/build-storybook'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+s] 11% building 10/20 modules 10 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
 <s> [webpack.Progress] 11% building 11/20 modules 9 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
 <s> [webpack.Progress] 11% building 12/20 modules 8 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
 <s> [webpack.Progress] 11% building 13/20 modules 7 active /home/tatu/Gitrepot/StorybookReact/learnstorybook-design-system/node_modules/@storybook/addon-docs/dist/frameworks/react/config.js
